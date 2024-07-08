@@ -1,0 +1,162 @@
+h1 {
+    color: blue;
+    text-align: center;
+   }
+
+body {
+	font-family: helvetica, arial, sans-serif;
+}
+
+#left-container {
+	background-color: #30cf72;
+	width: 15%;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	height: 100%;
+	padding: 10px;
+}
+
+#right-container {
+	background-color: #30b362;
+	width: 15%;
+	right: 0px;
+	top: 0px;
+	position: absolute;
+	height: 100%;
+	padding: 10px;
+}
+
+.bush {
+	position: relative;
+	height: 13%;
+	left: -10px;
+}
+
+.blueberry1 {
+	position: absolute;
+	max-width: 55%;
+	max-height: 65%;
+    bottom: -300%;
+    left: 24%;
+	z-index: 2;
+}
+
+.blueberry2 {
+	position: absolute;
+	max-width: 55%;
+	max-height: 65%;
+    bottom: -150%;
+    left: 36%;
+	z-index: 2;
+}
+
+.blueberry3 {
+	position: absolute;
+	max-width: 55%;
+	max-height: 65%;
+    bottom: -185%;
+    left: 65%;
+	z-index: 2;
+}
+
+.blueberry4 {
+	position: absolute;
+	max-width: 55%;
+	max-height: 65%;
+    bottom: -85%;
+    left: 84%;
+	z-index: 2;
+}
+
+.blueberry5 {
+	position: absolute;
+	max-width: 55%;
+	max-height: 65%;
+    bottom: 26%;
+    left: 44%;
+	z-index: 2;
+}
+
+.blueberry6 {
+	position: absolute;
+	max-width: 55%;
+	max-height: 65%;
+    bottom: 85%;
+    left: 12%;
+	z-index: 2;
+}
+
+.blueberry8 {
+	position: absolute;
+	max-width: 55%;
+	max-height: 65%;
+    bottom: -300%;
+    left: 24%;
+	z-index: 2;
+}
+
+.blueberry9 {
+	position: absolute;
+	max-width: 55%;
+	max-height: 65%;
+    bottom: -150%;
+    left: 36%;
+	z-index: 2;
+}
+
+.blueberry10 {
+	position: absolute;
+	max-width: 55%;
+	max-height: 65%;
+    bottom: -185%;
+    left: 65%;
+	z-index: 2;
+}
+
+.blueberry11 {
+	position: absolute;
+	max-width: 55%;
+	max-height: 65%;
+    bottom: -85%;
+    left: 84%;
+	z-index: 2;
+}
+
+.blueberry12 {
+	position: absolute;
+	max-width: 55%;
+	max-height: 65%;
+    bottom: 26%;
+    left: 44%;
+	z-index: 2;
+}
+
+.blueberry13 {
+	position: absolute;
+	max-width: 55%;
+	max-height: 65%;
+    bottom: 85%;
+    left: 12%;
+	z-index: 2;
+}
+
+.bush1 {
+	height:400%;
+	width: 100%;
+	background: #d1e1df;
+	border-radius: 1rem;
+	position: absolute;
+    bottom: 80%;
+	left: 18%;
+	z-index: 1;
+}
+
+.basket {
+    left: 15%;
+	width: 2%;
+	height: 20%;
+	position: absolute;
+	z-index: 3;
+    align-items: center;
+}
